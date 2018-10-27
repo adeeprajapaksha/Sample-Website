@@ -3,9 +3,9 @@
 
 I am curently studying at **IIT**. Following are my noticible points.
 
-- item 1
-- item 2
-- item 3
+- item 1.
+- item 2.
+- item 3.
 
 1. one 
 2. two
